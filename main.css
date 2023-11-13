@@ -1,0 +1,20 @@
+nav ul {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+nav ul li {
+	list-style: none;
+	padding: 12px;
+	font-size: 18px;
+	font-weight: 900;
+
+
+}
+
+section {
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 200vh;
+	background-image: url(https://kartinki.pics/uploads/posts/2023-09/thumbs/1693877853_kartinki-pics-p-gelendvagen-avtomobil-krasivo-68.jpg);
+}
